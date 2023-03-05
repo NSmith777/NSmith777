@@ -1,5 +1,5 @@
 ### Nathan Smith
-This is a public-facing repository for various samples of my programming portfolio work.  
+This is a public-facing repository for various samples of my games programming portfolio work.  
 The contents herein are solely for demonstration purposes, and are not under any open-source licenses.
 
 For any business-related enquiries, you can contact me via the following:  
